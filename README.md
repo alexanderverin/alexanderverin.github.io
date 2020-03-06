@@ -1,4 +1,4 @@
 # alexanderverin.github.io
 Проверка репозитория
 
-[Урок №1] (alexanderverin.github.io "Описание")
+[Урок №1] (https://alexanderverin.github.io/ "Описание")
